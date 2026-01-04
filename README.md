@@ -1,4 +1,5 @@
 🔍 Dataset Overview
+
 The dataset contains 550,068 Black Friday transactions with 10 variables, making it statistically reliable for population-level inference.
 No missing values were found, indicating high data quality.
 The primary metric of interest is Purchase Amount, while other variables capture customer demographics and product categories.
